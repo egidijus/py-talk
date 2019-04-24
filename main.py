@@ -47,12 +47,6 @@ def jarvis(data):
     elif "what time is it" in data:
         speak(ctime())
 
-    elif "up yours" in data:
-        speak("no Giddy, up yours")
-
-    elif "your face" in data:
-        speak("no Giddy, you're face")
-
     elif "where is" in data:
         data = data.replace("where is ", "")
         speak("Hold on Giddy, I will show you where " + data + " is.")
