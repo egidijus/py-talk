@@ -7,7 +7,7 @@ gTTS==2.3.2
 gTTS-token==1.1.4
 idna==3.7
 PyAudio==0.2.13
-requests==2.32.2
+requests==2.32.4
 six==1.16.0
 soupsieve==2.4
 SpeechRecognition==3.10.0
