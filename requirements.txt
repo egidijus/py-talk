@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.2
-bs4==0.0.1
+bs4==0.0.2
 certifi==2024.7.4
 chardet==3.0.4
 Click==8.1.3
